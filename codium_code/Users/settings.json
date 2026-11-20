@@ -1,0 +1,72 @@
+{
+    "files.autoSave": "onFocusChange",
+    "window.titleBarStyle": "native",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.encoding": "utf8bom",
+    "files.eol": "\r\n",
+    "doki.statusbar.name": "하와왕",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "/usr/bin/zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.largeFileOptimizations": false,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Dark Modern",
+    "mesonbuild.downloadLanguageServer": true,
+    "editor.fontFamily": "'Pixel Code', 'GalMuriMono11'", //하와와
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block",
+    "terminal.integrated.fontFamily": "'Pixel Code', 'JetBrainsMonoNL Nerd Font', 'GalMuriMono9'",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true,
+    "update.mode": "default",
+    "vscord.app.name": "Custom",
+    "vscord.app.id": "1520778598414418091",
+    "doki.background.anchor": "right",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.minimap.autohide": "mouseover",
+    "terminal.external.linuxExec": "ghostty",
+    "terminal.integrated.initialHint": false,
+    "terminal.integrated.tabs.location": "left",
+    "terminal.external.osxExec": "ghostty.app",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "path": "C:\\Users\\h427u\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash"
+        },
+        "vs26 pwsh": {
+            "path": "C:\\Users\\h427u\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe -NoExit -Command \"&{Import-Module \"\"\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell 2798206a -SkipAutomaticLocation -DevCmdArguments \"\"\"-arch=x64 -host_arch=x64\"\"\"}\""
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+}

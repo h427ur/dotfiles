@@ -1,0 +1,43 @@
+                                                             
+                                                             
+$5        BBBB|                                     BBBB|      
+      BB$6BB$4[B|$5BB                                 BB$6BB$4[B|$5BB    
+      BB$6BB$4[BBBB$5BB   BBBBBBBBB     BBBBBB!    !B!$6BB$4BBBB|$5BB    
+      BB$6BB$4[BBBBgg$5,g,$4ggggggggg$5gggg,$4gggggg,$5gggg$6,g,$4ggBBBB|$5BB    
+      BB$4gggBBBB$5gg$4,ggBBBBBBBBBgggggBBBBBBggggg$5,g,$4BBBBBB|$5BB    
+      ""$4""[BBBB$5""$4[BBBBBBBBBBBBBBBBBBBBBBBBBBB-$5"$4-BBBB""'$5""    
+        BB$4'""""BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBF""""$5[B|      
+        BBF='$6BB$4=====BBBBBBBBBBBBBBBBBBBBBBB===='$6BB$5==4B|      
+        MM$6[BBBBMMMB|$4MMMMMMMMMBBBBBBBMMMMMMM$6BBBMMBBBB$5!M!      
+      BB$6BBB@@@@$5@@$6[@@BBBBBBBBB$4@@@BBBB$6@@@BBBB@@$5[@!$6@@@@@B|$5BB    
+      BB$6BB$4[B|$5BB$4BBBB|$6BBBBBBBBBBB$4[BBBBBB$6[BBBB$4BBBB|$5BB$4BB$6[B|$5BB    
+      BB$4BBBB|$5BB$4BBBBBBBBB$5[B|$4BBBBBBBBB$5BB$4[BBBBBBBB|$5BB$4BBBB|$5BB    
+   [B!$6BB$4BBBB|$5BB$4BBBBBBBBB$5[B|$4BBBBBBBBB$5BB$4[BBBBBBBB|$5BB$4BBBB|$6BB$5BB  
+   [B|$4BBBBBBBBB$5BB$4[BBBB$5BBBB|$4BBBBBBBBB$5BBBB!$4BBBB$5!B!$4BBBBBBBBB$5BB  
+   [B|$4BBBBBBBBB$5BB$4[B|$5ggBB$2,g,$5gg$4BBBB|$5gg$2gg$5[Bggg$4BB$5[B|$4BBBBBBBBB$5BB  
+   [B|$4BBBBBB|$5--$2--$5,--BB$2--[B|$5BB$4BBBB|$5BB$2BB--,$5BB--$2,-,$5--$4BBBBBBB$5BB  
+   [B|$4BBBBBB|$5BB$2BB$5'""""$2""[B1$5""$4""""'$5""$2BB""'$5""""$2[B|$5BB$4BBBBBBB$5BB  
+   [B|$4BBBBBB|$5BB$2""""',,$1,,$2'""BB$5""""'$2BB""$1,,,$2,,""""'$5BB$4BBBBBBB$5BB  
+   '='$4==BBBB|$5BB     $2BB$1==   $2BBBBBBBBB  $1[B|$2BB     $5BB$4BBBBD==$5==  
+      BB$4BBBB|$5BB$2BB   BB$6MM$1!M!$2BBBBBBBBB$6MM$1!M!$2BB  [B|$5BB$4BBBB|$5BB    
+      @@$4@@@B|$5@@$2@@@BBBB$5@@@@!$2BBBBBBBBB$5@@@@!$2BBBBB@!$5@@$4BBB@!$5@@    
+        BB$4[BBBB$5BB$2[BBBBBBBBBBBBBBBBBBBBBBBBBBB$5[B|$4BBBB$5[B|      
+        BB$4[BBBB$5BB   $2BBBBBBBBBBBBBBBBBBBBBBB  $5[B|$4BBBB$5[B|      
+        BB$4[BBBBBB$5!B!  $3BB$2[BBBBBBBBBBBBB$3!B!  $5BB$4!BBBBBB$5[B|      
+          ,g,$4BBBB$5[B|$3ggBBggggg$5gg$3,gggggg@Bggg$5BB$4[BBBB$5gg         
+             gggggB|$3BB$4ggggggg$5BB$4,gggggggg,$3BB$5BBggggg           
+             """"""'$3""$4"""""BB$5""$4'""BB""""'$3""$5"""""""           
+             $4,,$3""""'$4""     BBBB$5[B|$4BB     ""$3""""'$4,,           
+          $2,,,$4==BBF='       BBBB$5[B|$4BB       ==4BF==$2,,         
+          [BBBB$4MM          MMMM$5!M!$4MM         !M!$2BBBB         
+          [@@@@         $1[BB@@BBB@@BB@@          $2@@@@         
+                      $1BBBB|$6BB$1BB$6[B|$1BB$6BB$1[B|                    
+                      BB$6[B|$1BB$6BB$1[BBBBBB$6[B|                    
+                        $2[B!$1BB$6BB$1[BBBB$2BB                       
+                        [BBBB     BBBB                       
+                        [BBBB     BBBB                       
+                        [BBBB     BBBB                       
+                        [BBBB     BBBB                       
+                        [BBBB     BBBB                       
+                        [BBBB     BBBB                       
+                        !MMMM     MMMM                       

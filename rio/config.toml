@@ -1,0 +1,30 @@
+# See the full configuration reference: https://rioterm.com/docs/config
+[renderer]
+filters = [
+  # "c:/users/h427u/Documents/gits/slang-shaders/crt/crt-effects/phosphorlut.slangp",
+  "c:/users/h427u/Documents/gits/slang-shaders/crt/fakelottes.slangp",
+  "c:/users/h427u/Documents/gits/slang-shaders/pixel-art-scaling/edgenpixel.slangp",
+  # "c:/users/h427u/Documents/gits/slang-shaders/vhs/vhspro.slangp",
+]
+
+[window]
+height = 900
+width = 1500
+blur = true
+
+[shell]
+program = "pwsh"
+args = ["--login"]
+
+[fonts]
+size = 14
+family = "Pixel Code"
+symbol-map = [
+  { start = "AC00", end = "D7A3", font-family = "GalmuriMono9" },
+  { start = "E000", end = "F8FF", font-family = "JetbrainsMonoNL Nerd Font" },
+]
+features = ["+calt", "+liga"]
+
+working-dir = "C:\\Users\\h427u"
+
+env-vars = ["TERM_PROGRAM=kitty"]
