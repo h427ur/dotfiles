@@ -1,0 +1,16 @@
+font-family = "Pixel Code"
+font-family = "GalmuriMono9"
+font-family = "JetBrainsMonoNL Nerd Font"
+font-size = 13
+
+background-image = "~/Pictures/Wallpaper/バグ.jpg"
+background-image-opacity = 0.25
+background-blur = true
+window-show-tab-bar = "always"
+#macos-titlebar-style = "tabs"
+
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+custom-shader = "./shaders/glitchy.glsl"
+custom-shader = "./shaders/in-game-crt-cursor.glsl"
