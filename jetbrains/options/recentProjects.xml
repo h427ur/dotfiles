@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/WelcomeScreen">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WelcomeScreen [~/PycharmProjects/WelcomeScreen] – Welcome to PyCharm" projectWorkspaceId="3KBRnJvTe1JkmYK4JGPaMi4k2pJ">
+              <option name="activationTimestamp" value="1795253507869" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-262.10968.92" />
+              <option name="buildTimestamp" value="1789722540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="30" width="1680" height="1020" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1795253397744" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/gits/img_process">
+          <value>
+            <RecentProjectMetaInfo frameTitle="img_process [~/Documents/gits/img_process] – /Users/h427ur/Documents/gits/img_process/src/histogram.py" opened="true" projectWorkspaceId="3Km3T1HZSz6a5tx0sXLHj11V5Xr">
+              <option name="activationTimestamp" value="1795253537859" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-262.10968.92" />
+              <option name="buildTimestamp" value="1789722540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="30" width="1680" height="1020" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1795253519990" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/gits/img_process" />
+  </component>
+</application>

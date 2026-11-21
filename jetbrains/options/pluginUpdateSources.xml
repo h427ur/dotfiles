@@ -1,0 +1,12 @@
+<application>
+  <component name="PluginUpdateSources">
+    <sources>
+      <entry pluginId="com.jetbrains.writerside">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="ru.adelf.idea.dotenv">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+    </sources>
+  </component>
+</application>

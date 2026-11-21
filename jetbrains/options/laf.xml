@@ -1,0 +1,13 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="696de7c1-3a8e-4445-83ee-3eb7e9dca47fislands" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Default" />
+      <laf-to-scheme laf="ExperimentalLight" scheme="_@user_Rider Light" />
+      <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="_@user_Light" />
+      <laf-to-scheme laf="Islands Dark" scheme="_@user_Emilia Dark" />
+      <laf-to-scheme laf="VisualStudioNight" scheme="_@user_Rider Dark" />
+      <laf-to-scheme laf="e828aaae-aa8c-4084-8993-d64697146930" scheme="_@user_Emilia Dark" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

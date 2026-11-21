@@ -1,0 +1,5 @@
+<application>
+  <component name="doki-theme-icon-config">
+    <option name="syncWithDokiTheme" value="true" />
+  </component>
+</application>

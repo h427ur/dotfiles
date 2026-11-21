@@ -1,0 +1,91 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Pretendard JP Variable" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.5" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FontPreviewText": "PyCharm is an <bold>Integrated \nDevelopment Environment (IDE)</bold> designed\nto maximize productivity. It provides\n<bold>clever code completion, static code\nanalysis, and refactorings,</bold> and lets\nyou focus on the bright side of\nsoftware development making\nit an enjoyable experience.\n\nDefault:\nabcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n0123456789 (){}[]\n+ - * / = .,;:!? #&$%@|^\n\n<bold>Bold:\nabcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n0123456789 (){}[]\n+ - * / = .,;:!? #&$%@|^</bold>\n\n<!-- -- != := === >= >- >=> |-> -> <$>\n</> #[ |||> |= ~@\n\n가나다라마바사아자차카타파하",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PY-262.10968.92",
+    "LAST_OPENED_FILE/Users/h427ur/Documents/gits/img_process": "/Users/h427ur/Documents/gits/img_process/src/bitwise_op.py",
+    "NextRunPlatformUpdateBuild": "PY-262.12573.39",
+    "NextRunPlatformUpdateSelfBuild": "PY-262.10968.92",
+    "NextRunPlatformUpdateVersion": "2026.2.5",
+    "PACKAGE_FILTER": "numpy\nopencv-python",
+    "PYCHARM_CONDA_FULL_LOCAL_PATH": "/Users/h427ur/Documents/gits/img_process/.pixi/envs/default/libexec/conda",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.AIPromoWindowAdvisorPreheat": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "cursor",
+    "WRITERSIDE_ONBOARDING_SHOWN": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "cef_version_last_used": "144",
+    "com.github.copilot.installationId": "d0071b98-31e7-4662-8f8e-4644d18555eb",
+    "evlsprt3.262": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "git.working.trees.stop.showing.new.badge": "true",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "ide.settings.window.float": "false",
+    "idea.background.editor": "file:///Users/h427ur/Library/Application%20Support/JetBrains/PyCharm2026.2/dokiThemeAssets/backgrounds/wallpapers/emilia_dark.png,13,SCALE,MIDDLE_RIGHT",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER_AIA_DISABLED",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "/Users/h427ur/Downloads",
+    "power.save.mode": "true",
+    "previousColorScheme": "_@user_Emilia Dark",
+    "pycharm.welcome.free.mode.override": "true",
+    "pycharm.welcome.non.modal.baseline.applied": "true",
+    "python.packages.toolwindow.migrated.to.right.top.v2": "true",
+    "registry.to.advanced.settings.migration.build": "PY-262.10968.92",
+    "settings.new.badge.shown.count.configurable.group.editor": "3",
+    "settings.new.badge.shown.count.editor.preferences.appearance": "2",
+    "settings.new.badge.shown.count.preferences.editor": "3",
+    "toolwindow.showToolWindowsNames.ts": "2026-10-28T12:39:09.999045",
+    "trial.state.last.availability.check": "1795252999165",
+    "trial.state.last.availability.state": "false",
+    "trial.state.last.state": "FREE",
+    "ts.lib.d.ts.version": "6.0.3",
+    "writerside.promo.hidden": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  }
+}</component>
+  <component name="TerminalAgentsState">{
+  &quot;remainingJunieNewBadgePresentations&quot;: 2
+}</component>
+</application>

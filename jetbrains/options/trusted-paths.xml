@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/gits/aether-portal" value="true" />
+        <entry key="$USER_HOME$/Documents/gits/aether-portal/Library/PackageCache/com.unity.ide.visualstudio@2.0.25/Editor/COMIntegration/COMIntegration~" value="true" />
+        <entry key="$USER_HOME$/Documents/gits/aether-portal/Library/PackageCache/com.unity.ide.visualstudio@2.0.25/Editor/COMIntegration/COMIntegration~/.idea/.idea.COMIntegration~.cmake" value="true" />
+        <entry key="$USER_HOME$/Documents/gits/img_process" value="true" />
+        <entry key="$USER_HOME$/Documents/test" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/WelcomeScreen" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/loremIpsum" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/loremIpsum/.idea/.idea.loremIpsum" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

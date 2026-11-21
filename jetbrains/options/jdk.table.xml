@@ -1,0 +1,54 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="~/Documents/test/.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.8" />
+      <homePath value="$USER_HOME$/Documents/test/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/test/.venv/lib/python3.14/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.2/python_stubs/1110415625" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/test" WORKING_DIRECTORY="$USER_HOME$/Documents/test" SDK_UUID="e9899b11-8335-4839-8ccf-f6963f55c59d">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="~/Documents/gits/img_process/.pixi/envs/default" />
+      <type value="Python SDK" />
+      <version value="Python 3.15.0" />
+      <homePath value="$USER_HOME$/Documents/gits/img_process/.pixi/envs/default/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Documents/gits/img_process/.pixi/envs/default/lib/python3.15" type="simple" />
+            <root url="file://$USER_HOME$/Documents/gits/img_process/.pixi/envs/default/lib/python3.15/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/gits/img_process/.pixi/envs/default/lib/python3.15/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2026.2/python_stubs/-1601543460" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/gits/img_process" WORKING_DIRECTORY="$USER_HOME$/Documents/gits/img_process" SDK_UUID="c18989e3-da91-4d44-82f4-af6a9ef743d7">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;/Users/h427ur/Documents/gits/img_process/.pixi/envs/default/libexec/conda&quot;}}" />
+      </additional>
+    </jdk>
+  </component>
+</application>

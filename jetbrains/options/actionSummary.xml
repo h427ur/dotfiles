@@ -1,0 +1,280 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1793948269397" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1793948275469" />
+    </e>
+    <e n="$Redo">
+      <i c="1" l="1795160527461" />
+    </e>
+    <e n="$SearchWeb">
+      <i c="1" l="1795160453498" />
+    </e>
+    <e n="$Undo">
+      <i c="31" l="1795161334897" />
+    </e>
+    <e n="ChangeKeymap">
+      <i c="1" l="1795253099462" />
+    </e>
+    <e n="ChangeLaf">
+      <i c="19" l="1795253516126" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1795123486572" />
+    </e>
+    <e n="CopyElement">
+      <i c="2" l="1795160594343" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1793948647746" />
+    </e>
+    <e n="DebugClass">
+      <i c="1" l="1795155676239" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1795156641074" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="550" l="1795161357024" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1795160753050" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1795156587638" />
+    </e>
+    <e n="EditorDeleteToLineStart">
+      <i c="2" l="1795160643981" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="130" l="1795161340168" />
+    </e>
+    <e n="EditorDown">
+      <i c="53" l="1795160713662" />
+    </e>
+    <e n="EditorDuplicateLines">
+      <i c="2" l="1795160179674" />
+    </e>
+    <e n="EditorEnter">
+      <i c="143" l="1795160727510" />
+    </e>
+    <e n="EditorLeft">
+      <i c="158" l="1795161212075" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1795159892123" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="27" l="1795160734725" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1795160756640" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="47" l="1795160705601" />
+    </e>
+    <e n="EditorRight">
+      <i c="90" l="1795161221965" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1795155781998" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1795159976952" />
+    </e>
+    <e n="EditorTextEnd">
+      <i c="1" l="1793947411294" />
+    </e>
+    <e n="EditorTextEndWithSelection">
+      <i c="1" l="1793943639123" />
+    </e>
+    <e n="EditorTextStart">
+      <i c="1" l="1793947409882" />
+    </e>
+    <e n="EditorTextStartWithSelection">
+      <i c="2" l="1793943638688" />
+    </e>
+    <e n="EditorToggleUseSoftWraps">
+      <i c="3" l="1795155837894" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1795156825367" />
+    </e>
+    <e n="EditorUp">
+      <i c="29" l="1795160733295" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="7" l="1793947498868" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1793943251464" />
+    </e>
+    <e n="Git.Fetch">
+      <i c="1" l="1793887427692" />
+    </e>
+    <e n="IntroduceVariable">
+      <i c="1" l="1793947249274" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="4" l="1795123385913" />
+    </e>
+    <e n="Move">
+      <i c="2" l="1795156582664" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="5" l="1795156823170" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="9" l="1795160045203" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="4" l="1795154696291" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="4" l="1795160533635" />
+    </e>
+    <e n="PyExtractFunction">
+      <i c="1" l="1795156553980" />
+    </e>
+    <e n="RecentProjectListGroup">
+      <i c="3" l="1795160509369" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="9" l="1795155759518" />
+    </e>
+    <e n="RenameElement">
+      <i c="5" l="1795160530973" />
+    </e>
+    <e n="Run">
+      <i c="43" l="1795161367352" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1795160069322" />
+    </e>
+    <e n="SafeDelete">
+      <i c="1" l="1795156604884" />
+    </e>
+    <e n="SaveDocument">
+      <i c="8" l="1795160736963" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1793159981600" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="1" l="1793947376831" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="58" l="1795253511279" />
+    </e>
+    <e n="SettingsSyncStatusAction">
+      <i c="1" l="1793887476228" />
+    </e>
+    <e n="ShowPlugins">
+      <i c="2" l="1795253043627" />
+    </e>
+    <e n="ShowSettings">
+      <i c="31" l="1795253291821" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1795155575766" />
+    </e>
+    <e n="Terminal.AiAgents.AgentSelector">
+      <i c="1" l="1791029351446" />
+    </e>
+    <e n="TerminalNewPredefinedSession">
+      <i c="2" l="1791029354533" />
+    </e>
+    <e n="TogglePowerSave">
+      <i c="1" l="1793887376528" />
+    </e>
+    <e n="ToolWindowShowNamesAction">
+      <i c="1" l="1793158749992" />
+    </e>
+    <e n="Vcs.Log.Refresh">
+      <i c="2" l="1793887410502" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1795153138370" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="3" l="1792148901969" />
+    </e>
+    <e n="com.intellij.execution.actions.EditRunConfigAndRunCurrentFileExecutorAction">
+      <i c="2" l="1793195369682" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$1">
+      <i c="2" l="1795155761813" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1795123380219" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="15" l="1795253517885" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowMoveAction">
+      <i c="4" l="1793159584057" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurablePanel$CustomInstallPluginFromDiskAction">
+      <i c="6" l="1795253370659" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="6" l="1795253369029" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.UninstallAction">
+      <i c="2" l="1795253385853" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1791029089066" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1793887434638" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="2" l="1795156734105" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="14" l="1795161271921" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.KeymapImplKt$notifyAboutMissingKeymap$1$projectOpened$1$action$2">
+      <i c="1" l="1791029174587" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1795160070968" />
+    </e>
+    <e n="com.intellij.openapi.ui.NonModalWindowWrapper$PinWindowAction">
+      <i c="1" l="1795253366711" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="37" l="1795154850814" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="2" l="1793887418887" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1793159589382" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="3" l="1793887512886" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="1" l="1795253300122" />
+    </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="1" l="1791029423796" />
+    </e>
+    <e n="com.jetbrains.python.module.PySourceRootDetectionService$OkAction">
+      <i c="1" l="1791029362053" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="2" l="1792148934135" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="5" l="1793887507973" />
+    </e>
+    <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$UpdateSelectedBranchAction">
+      <i c="1" l="1793887449403" />
+    </e>
+  </component>
+</application>

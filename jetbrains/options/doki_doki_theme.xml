@@ -1,0 +1,10 @@
+<application>
+  <component name="DokiDokiThemeConfig">
+    <option name="userId" value="52e92129-c753-44e7-9bf9-2439e6fe7cfd" />
+    <option name="version" value="4.0.1" />
+    <option name="stickerLevel" value="OFF" />
+    <option name="isDokiBackground" value="true" />
+    <option name="isEmptyFrameBackground" value="false" />
+    <option name="consoleFontName" value="Pixel Code" />
+  </component>
+</application>

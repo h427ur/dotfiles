@@ -1,0 +1,11 @@
+#!/bin/zsh
+EMPTY=""
+if [ "$KITTY_WINDOW_ID" != "$EMPTY" ] || [ "$GHOSTTY_RESOURCES_DIR" != "$EMPTY" ]; then
+        if [ $(tput cols) -gt "105" ]; then
+            fastfetch --config ~/.config/fastfetch/config_extended.jsonc --logo ~/.config/fastfetch/logo.webp --logo-type kitty --logo-height 20
+        else
+            fastfetch
+        fi
+else
+        fastfetch --config ~/.config/fastfetch/config_extended.jsonc
+fi
